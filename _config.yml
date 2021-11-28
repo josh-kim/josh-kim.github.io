@@ -11,7 +11,7 @@ title                    : "Josh Kim"
 title_separator          : "-"
 name                     : &name "Josh Kim"
 description              : &description "Research Scientist at Meta"
-url                      : https://joshkim.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://josh-kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josh-kim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist at Meta, Economics PhD from Stanford University"
   location         : "London, UK"
-  employer         : "Meta"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "josh@joshkim.org"
