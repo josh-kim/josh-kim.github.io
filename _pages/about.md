@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a senior research scientist at Meta, where I currently focus on improving experimentation and using data science to build value for advanced advertisers on the Facebook platform. Prior to leading the Advanced Advertisers DS team, I worked for Meta's Novi Economics team, where I helped build the Diem (previously known as Libra) cryptocurrency. 
+I am a senior research scientist at Meta, where I currently focus on improving experimentation and using data science to build value for advanced advertisers on the Facebook platform. Prior to serving as the DS lead for the Advanced Advertisers team, I worked for Meta's Novi Economics team, where I helped build the Diem (previously known as Libra) cryptocurrency. 
 
 I am currently based in London, UK, having moved from San Francisco, CA.
 
