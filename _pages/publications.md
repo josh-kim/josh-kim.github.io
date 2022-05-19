@@ -13,19 +13,19 @@ author_profile: true
 
 ## Published and Working Papers
 
-### [Equilibrium Effects of Food Labeling Policies](files/foodlabels.pdf)
+### [Equilibrium Effects of Food Labeling Policies](../files/foodlabels.pdf)
 
 With Nano Barahona, Cristobal Otero, and Sebastian Otero.
 
 **Revise and Resubmit, _Econometrica_**
 
-### [Interpreting Experiments with Multiple Outcomes](files/InterpretingExperiments.pdf)
+### [Interpreting Experiments with Multiple Outcomes](../files/InterpretingExperiments.pdf)
 
 With Tom Cunningham.
 
 **Working Paper, 2020.**
 
-### [Are High-Interest Loans Predatory? Theory and Evidence from Payday Lending](files/Payday.pdf)
+### [Are High-Interest Loans Predatory? Theory and Evidence from Payday Lending](../files/Payday.pdf)
 
 With Hunt Allcott, Dmitry Taubinsky, and Jonathan Zinman. 
 
