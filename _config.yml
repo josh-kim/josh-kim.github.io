@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josh Kim"
 title_separator          : "-"
 name                     : &name "Josh Kim"
-description              : &description "Research Scientist at Meta"
+description              : &description "Head of Data Science at Lightspark"
 url                      : https://josh-kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josh-kim.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Josh Kim"
   avatar           : "profile.png"
-  bio              : "Research Scientist at Meta, Economics PhD from Stanford University"
-  location         : "London, UK"
+  bio              : "Head of Data Science at Lightspark"
+  location         : "Los Angeles, CA"
   employer         : 
   pubmed           : 
   googlescholar    : 
