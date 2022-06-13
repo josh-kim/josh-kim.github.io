@@ -10,11 +10,11 @@ redirect_from:
 
 ## About Me
 
-I am a senior research scientist at Meta, where I currently focus on improving experimentation and using data science to build value for advanced advertisers on the Facebook platform. Prior to serving as the DS lead for the Advanced Advertisers team, I worked for Meta's Novi Economics team, where I helped build the Diem (previously known as Libra) cryptocurrency. 
+I am the Head of Data Science at Lightspark and am currently based in Los Angeles, CA. 
 
-I am currently based in London, UK, having moved from San Francisco, CA.
+Prior to Lightspark, I was a Research Scientist at Meta, where I helped build the Diem (previously known as Libra) cryptocurrency. 
 
-Prior to joining Meta, I received my Ph.D in Economics from Stanford University. My Ph.D focused on using applied microeconomics, field experiments, and big data to answer important policy questions related around developing economies and poverty. 
+I also received my Ph.D in Economics from Stanford University. My Ph.D focused on using applied microeconomics, field experiments, and big data to answer important policy questions related around developing economies and poverty. 
 
 I am originally from Seattle, WA. In my spare time, I enjoy playing sports (snowboarding, surfing, ultimate frisbee), playing music (piano and guitar), and exploring the world.
 
