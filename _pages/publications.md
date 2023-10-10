@@ -13,11 +13,11 @@ author_profile: true
 
 ## Published and Working Papers
 
-### [Equilibrium Effects of Food Labeling Policies](../files/foodlabels.pdf)
+### [On the Design of Food Labeling Policies](../files/foodlabels.pdf)
 
 With Nano Barahona, Cristobal Otero, and Sebastian Otero.
 
-**Revise and Resubmit, _Econometrica_**
+**Working Paper, 2023.**
 
 ### [Interpreting Experiments with Multiple Outcomes](../files/InterpretingExperiments.pdf)
 
