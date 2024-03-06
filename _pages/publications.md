@@ -19,17 +19,17 @@ With Nano Barahona, Cristobal Otero, and Sebastian Otero.
 
 **Working Paper, 2023.**
 
+### [Are High-Interest Loans Predatory? Theory and Evidence from Payday Lending](../files/Payday.pdf)
+
+With Hunt Allcott, Dmitry Taubinsky, and Jonathan Zinman. 
+
+**Review of Economic Studies, Vol. 89, No. 3 (May 2022), pages 1041-1084.**
+
 ### [Interpreting Experiments with Multiple Outcomes](../files/InterpretingExperiments.pdf)
 
 With Tom Cunningham.
 
 **Working Paper, 2020.**
-
-### [Are High-Interest Loans Predatory? Theory and Evidence from Payday Lending](../files/Payday.pdf)
-
-With Hunt Allcott, Dmitry Taubinsky, and Jonathan Zinman. 
-
-**Forthcoming, _Review of Economic Studies_**
 
 ### [Bankruptyc Rates among NFL Players with Short-Lived Income Spikes](https://www.aeaweb.org/articles?id=10.1257/aer.p20151038)
 
